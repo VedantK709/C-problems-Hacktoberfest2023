@@ -159,7 +159,12 @@ number and their sum.\
 **Question 44:** Write a C language program to print an even number 
 between 50 and 100 using three loops (while, DO While, and For Loop). \
 **Question 45:** Write a C language program to find the number of 
-and the sum of all integers greater than 100 and less than 200 that are divisible by 7.
+and the sum of all integers greater than 100 and less than 200 that are divisible by 7. \
+**Question 46:** Write a C language program to print all numbers between 10 to 5050 using all three C language loops (while, DO While, and For Loop). \
+**Question 47:** Write a C language program to print all numbers between 1 to 50 using given C language loops (while, & For Loop). \
+**Question 48:** Write a C language program to reverse an array. \ 
+**Question 49:** Write a C language program to check if every element in an integer array is greater than 10 return -1 if true or 0 if false. \ 
+**Question 50:** Write a C language program to display functionality of a stack.
 
 Feel free to add more questions and solutions as you see fit.
 
